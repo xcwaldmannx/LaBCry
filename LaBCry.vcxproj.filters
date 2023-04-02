@@ -13,20 +13,62 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{c607c4a5-44e4-4664-a557-5d44f6d220e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\KeyPair">
+      <UniqueIdentifier>{d22a7353-256e-4f4b-bcd4-1feb06a54dd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\KeyPair\PrivateKey">
+      <UniqueIdentifier>{7aab0f30-7687-42f3-9a53-6a62f1f2c970}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\KeyPair\PublicKey">
+      <UniqueIdentifier>{5e0d06e3-5a4c-4850-9708-215a888c5ab4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Math">
+      <UniqueIdentifier>{850a3a03-4825-4509-8c98-dae16d7b8318}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\MessageCoder">
+      <UniqueIdentifier>{2a0bc97d-4ebf-45c5-b58d-9d28fdcecddd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="pch.h">
+    <ClInclude Include="Vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyPair.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageCoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrivateKey.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PublicKey.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LaBCry.cpp">
+    <ClCompile Include="KeyPair.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pch.cpp">
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MessageCoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrivateKey.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PublicKey.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

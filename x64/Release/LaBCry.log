@@ -1,0 +1,10 @@
+﻿  KeyPair.cpp
+C:\Users\xcwal\source\repos\LaBCry\LaBCry\KeyPair.cpp(79,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  main.cpp
+C:\Users\xcwal\source\repos\LaBCry\LaBCry\main.cpp(42,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  MessageCoder.cpp
+C:\Users\xcwal\source\repos\LaBCry\LaBCry\MessageCoder.cpp(22,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  PrivateKey.cpp
+C:\Users\xcwal\source\repos\LaBCry\LaBCry\PrivateKey.cpp(39,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  PublicKey.cpp
+C:\Users\xcwal\source\repos\LaBCry\LaBCry\PublicKey.cpp(43,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
