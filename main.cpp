@@ -4,6 +4,8 @@
 #include <iostream>
 #include <string>
 
+using namespace labcry;
+
 int correct = 0;
 int incorrect = 0;
 
