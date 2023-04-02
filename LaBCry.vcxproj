@@ -144,6 +144,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="KeyPair.h" />
+    <ClInclude Include="LaBCry.h" />
     <ClInclude Include="Matrix.h" />
     <ClInclude Include="MessageCoder.h" />
     <ClInclude Include="PrivateKey.h" />

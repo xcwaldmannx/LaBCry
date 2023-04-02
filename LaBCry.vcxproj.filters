@@ -39,6 +39,9 @@
     <ClInclude Include="KeyPair.h">
       <Filter>src\KeyPair</Filter>
     </ClInclude>
+    <ClInclude Include="LaBCry.h">
+      <Filter>src</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="KeyPair.cpp">
